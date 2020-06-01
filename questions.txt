@@ -1,40 +1,36 @@
-- You enjoy social events with lots of people
-- You often spend time exploring unrealistic yet intriguing ideas
-- Your travel plans are more likely to look like a rough list of ideas than a detailed itinerary
-- You often think about what you should have said in a conversation long after it has taken place
-- If your friend is sad about something, your first instinct is to support them emotionally, not try to solve their problem
-- People can rarely upset you
-- You have a careful and methodical approach to life
-- At parties and similar events, you can mostly be found in the middle of the action
-- You often find it difficult to relate to people who let their emotions guide them
-- When looking for a movie to watch, you can spend ages browsing the catalog
-- You can stay calm under a lot of pressure
-- When in a group of people you do not know, you have no problem jumping right into their conversation
-- You are dedicated and focused on your goals, only rarely getting sidetracked
-- When at a social event, you rarely try to introduce yourself to new people and mostly talk to the ones you already know
-- You usually lose interest in a discussion when it gets philosophical
-- You feel more drawn to places with a bustling and busy atmosphere than to more quiet and intimate ones
-- You like discussing different views and theories on what the world could look like in the future
-- When it comes to life-changing choices, you mostly listen  to your heart rather than your head
-- You cannot imagine yourself dedicating your life to the study of something that you cannot see, touch, or experience
-- You often make decisions on a whim
-- The time you spend with yourself often ends up being more interesting and satisfying than the time you spend with other people
-- You often put special effort into interpreting the real meaning or the message of a song or a movie
-- You always know exactly what you want
-- You tend to focus on present realities than future possibilities
-- When starting to work on a project, you prefer to make as many decisions upfront as possible
-- When you know someone thinks highly of you, you also wonder how long it will be until they become disappointed in you
-- You feel comfortable just walking up to someone you find interesting and striking up a conversation
-- You look after yourself first, and others come in second
-- Even when you have planned a particular daily routine, you usually just end up doing what you feel like at any given moment
-- You often contemplate the reasons for human existence or the meaning of life
-- You often talk about your feelings and emotions
-- You have detailed education or career development plans stretching several years into the future
-- Spending time in a dynamic atmosphere with lots of people around quickly makes you feel drained and in need of a getaway
-- You see yourself as more of a realist than a visionary
-- Your personal work style is closer to spontaneous bursts of energy than to organized and consistent efforts
-- Your emotions control you more than you control them
-- After a long and exhausting week, a fun party is just what you need
-- You frequently find yourself wondering how technological advancement could change everyday life
-- You always consider how your actions might affect other people before doing something
-- You still honor commitments you have made even if you have a change of heart
+QUESTION BANK
+
+These questions will be put into the MENTEE questionnaire.
+
+- You thrive in crowded social environments
+- You are a deep thinker, contemplating the bounds of the realm of possibility
+- You dwell on the past rather than look to the future
+- You are more pragmatic than theoretical
+- You have a set of rules that gets you through life, and you stick to them
+- You feel more comfortable at the edges of a crowded room
+- You think people driven by emotions are impulsive
+- You keep your composure under a lot of pressure
+- You insert yourself in conversations without hesitation
+- You have a personal set of goals and aspirations to which you strictly adhere
+- You prefer things that are familiar over things that are new
+- You enjoy deep, intellectual conversation
+- You prefer to study alone rather than with a group
+- You find it stimulating to debate a point with someone else
+- You are spontaneous, making decisions suddenly
+- You enjoy movies, TV shows, and music with cerebral and philosophical undertones
+- You know exactly what you want your college experience to be like
+- You prefer to live in the present rather than contemplate the future
+- You usually start the conversation, rather than wait for someone else
+- You feel comfortable changing the plan at a moment's notice
+- You regularly take time to consider all the things that led you to this moment
+- You have a clear understanding of what you want for a career
+- You find regular social interaction tiresome
+- You don't get distracted by what "could be" and stick to what "is"
+- You feel like taking breaks will cause you to fall behind
+- Your favorite kind of "party" is in a game of Dungeons and Dragons
+- You feel that "any sufficiently advanced technology is indistinguishable from magic"
+- You thoroughly consider all effects of an action
+- You believe promise is a promise, regardless of circumstance
+- You want to explore every part of IU's campus before you graduate
+- You want to spend your free time getting involved in clubs and student organizations
+- You want to be heavily involved in student research
