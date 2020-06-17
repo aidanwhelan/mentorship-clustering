@@ -95,4 +95,5 @@ for z in range(mentees_per_mentor):                 # Loop five times
 # RETURN PAIRINGS #############################################################
 for i in range(len(mentors)):                       # Iterate over number of mentors (5)
     for j in range(len(mentors[i].neighbors)):      #
-        print("Mentor: " + mentors[i].name + "\t Mentee: " + mentors[i].neighbors[j].name)
+        print("Mentor: " + mentors[i].name + " (" + mentors[i].id + ")" +
+              "\t Mentee: " + mentors[i].neighbors[j].name + " (" + mentors[i].neighbors[j].id + ")")
